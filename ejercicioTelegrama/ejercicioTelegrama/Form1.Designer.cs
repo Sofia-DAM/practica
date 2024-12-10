@@ -3,6 +3,7 @@
     partial class Form1
     {
         //obviamente
+        //a ver si funciona
         /// <summary>
         ///  Required designer variable.
         /// </summary>
